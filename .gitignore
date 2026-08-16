@@ -1,0 +1,8 @@
+# 转换产出（运行工具时生成，非源码）
+converted/
+*.meta.json
+*.meta.csv
+
+# 日志与系统残留
+*.log
+.DS_Store
